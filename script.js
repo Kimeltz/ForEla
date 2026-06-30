@@ -7,13 +7,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const replayBtn = document.getElementById('replayBtn');
 
     const textItems = [
-        { id: 'text-hbd', duration: 1.5 },
-        { id: 'text-kitin', duration: 1.5 },
-        { id: 'text-wish', duration: 1.5 },
-        { id: 'text-you', duration: 1.5 },
-        { id: 'text-are', duration: 1.5 },
-        { id: 'text-the', duration: 1.5 },
-        { id: 'text-best', duration: 1.5 }
+        { id: 'text-hbd', duration: 2.5 },
+        { id: 'text-ela', duration: 1.5 },
+        { id: 'text-wish', duration: 1 },
+        { id: 'text-you', duration: 1 },
+        { id: 'text-are', duration: 1 },
+        { id: 'text-the', duration: 1 },
+        { id: 'text-best', duration: 1 }
     ];
 
     const asciiChars = ['*', '+', 'x', '❤', '*'];
